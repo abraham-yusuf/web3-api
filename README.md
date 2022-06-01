@@ -21,7 +21,7 @@ First, you'll need a [Cloudinary](https://cloudinary.com) and a [Heroku](https:/
 
 1. From your copy of the repo click the "Deploy to Heroku" button
 
-<a href="https://www.heroku.com/deploy/?template=https://github.com/edgarlr/magazine-api">
+<a href="https://www.heroku.com/deploy/?template=https://github.com/abraham-yusuf/web3-api">
 <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
 </a>
 
