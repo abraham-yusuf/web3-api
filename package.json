@@ -11,20 +11,20 @@
     "heroku-prebuild": "node scripts/postgres-env.js"
   },
   "dependencies": {
-    "@strapi/utils": "^4.0.5",
     "knex": "0.21.18",
     "pg": "^8.7.3",
     "sqlite3": "5.0.0",
-    "strapi": "^3.6.8",
-    "strapi-admin": "^3.6.8",
-    "strapi-connector-bookshelf": "^3.6.8",
-    "strapi-plugin-content-manager": "^3.6.8",
-    "strapi-plugin-content-type-builder": "^3.6.8",
-    "strapi-plugin-email": "^3.6.8",
-    "strapi-plugin-i18n": "^3.6.8",
-    "strapi-plugin-upload": "^3.6.8",
-    "strapi-plugin-users-permissions": "^3.6.8",
-    "strapi-provider-upload-cloudinary": "^3.6.10"
+    "strapi": "^3.6.11",
+    "strapi-admin": "^3.6.11",
+    "strapi-utils": "^3.6.11",
+    "strapi-connector-bookshelf": "^3.6.11",
+    "strapi-plugin-content-manager": "^3.6.11",
+    "strapi-plugin-content-type-builder": "^3.6.11",
+    "strapi-plugin-email": "^3.6.11",
+    "strapi-plugin-i18n": "^3.6.11",
+    "strapi-plugin-upload": "^3.6.11",
+    "strapi-plugin-users-permissions": "^3.6.11",
+    "strapi-provider-upload-cloudinary": "^3.6.11"
   },
   "author": {
     "name": "Web3ID"
